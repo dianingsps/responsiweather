@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/responsiweather/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/responsiweather/static/js/main.527ae781.chunk.js",
+    "main.js.map": "/responsiweather/static/js/main.527ae781.chunk.js.map",
+    "runtime~main.js": "/responsiweather/static/js/runtime~main.cb007717.js",
+    "runtime~main.js.map": "/responsiweather/static/js/runtime~main.cb007717.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/responsiweather/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/responsiweather/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/responsiweather/index.html",
+    "precache-manifest.a51718ee383239dacc12cae5c15f1df0.js": "/responsiweather/precache-manifest.a51718ee383239dacc12cae5c15f1df0.js",
+    "service-worker.js": "/responsiweather/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/responsiweather/static/css/main.ba49ec77.chunk.css.map"
+  }
+}
