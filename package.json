@@ -2,7 +2,7 @@
   "name": "cuaca",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dianingsp.github.io/responsiweather/",
+  "homepage": "https://dianingsps.github.io/responsiweather/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
